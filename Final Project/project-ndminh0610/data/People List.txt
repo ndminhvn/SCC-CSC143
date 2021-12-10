@@ -1,0 +1,34 @@
+
+L I S T   O F   P E O P L E
+
+Year to retire:	 22
+Age:	 43
+Name:	  Green, Mike
+
+
+Year to retire:	 22
+Age:	 43
+Name:	  Jones, Mike
+
+
+Year to retire:	 24
+Age:	 41
+Name:	  Brown, Mike
+
+
+Year to retire:	 31
+Age:	 34
+Name:	  Long, Sam
+
+
+Year to retire:	 40
+Age:	 25
+Name:	  Jones, Sam
+
+
+Year to retire:	 46
+Age:	 19
+Name:	  Nguyen, Minh
+
+
+

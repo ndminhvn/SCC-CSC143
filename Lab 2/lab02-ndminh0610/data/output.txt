@@ -1,0 +1,37 @@
+
+PROGRAM TEST
+
+Matrix:
+4	3	6	
+5	4	3	
+8	5	4	
+
+Other Matrix:
+1	2	1	
+2	1	2	
+1	2	1	
+
+Matrix + Other Matrix:
+5	5	7	
+7	5	5	
+9	7	5	
+
+Matrix - Other Matrix:
+3	1	5	
+3	3	1	
+7	3	3	
+
+Matrix * Other matrix:
+16	23	16	
+16	20	16	
+22	29	22	
+
+Check if Matrix is diagonal: false
+
+Check if Matrix is identity: false
+
+Check if Other Matrix is diagonal: false
+
+Check if Other Matrix is identity: false
+
+Check if two matrices are equal: false

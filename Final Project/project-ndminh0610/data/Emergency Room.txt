@@ -1,0 +1,70 @@
+LIST OF EMERGENCY PATIENTS
+
+Priority: 1
+Name: Scarlett Johansson
+ID: 006
+Address: 1017 Ocean Avenue, Suite G Santa Monica, CA 90403-3526
+
+Priority: 2
+Name: Robert Downey Jr.
+ID: 001
+Address: 1311 Abbot Kinney, CA 90291-3739
+
+Priority: 3
+Name: Tom Holland
+ID: 003
+Address: 9601 Wilshire Blvd, CA 90210-5213
+
+Priority: 3
+Name: Tom Hiddleston
+ID: 005
+Address: 9601 Wilshire Blvd, CA 90210-5213
+
+Priority: 4
+Name: Mark Ruffalo
+ID: 007
+Address: 9000 W Sunset Blvd, CA 90069-5815
+
+Priority: 5
+Name: Chris Hemsworth
+ID: 004
+Address: 9255 W Sunset Blvd, CA 90069-3309
+
+Priority: 6
+Name: Chris Evans
+ID: 002
+Address: 9460 Wilshire Blvd, CA 90212
+
+
+AFTER MEDICAL EXAMINATION
+These patients have completed examination in the following order:
+
+Name: Scarlett Johansson
+ID: 006
+Address: 1017 Ocean Avenue, Suite G Santa Monica, CA 90403-3526
+
+Name: Robert Downey Jr.
+ID: 001
+Address: 1311 Abbot Kinney, CA 90291-3739
+
+Name: Tom Holland
+ID: 003
+Address: 9601 Wilshire Blvd, CA 90210-5213
+
+Name: Tom Hiddleston
+ID: 005
+Address: 9601 Wilshire Blvd, CA 90210-5213
+
+Name: Mark Ruffalo
+ID: 007
+Address: 9000 W Sunset Blvd, CA 90069-5815
+
+Name: Chris Hemsworth
+ID: 004
+Address: 9255 W Sunset Blvd, CA 90069-3309
+
+Name: Chris Evans
+ID: 002
+Address: 9460 Wilshire Blvd, CA 90212
+
+
